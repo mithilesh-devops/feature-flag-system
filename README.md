@@ -55,7 +55,7 @@ deployment, GitOps workflow, and monitoring using modern tools like
 
 # Clone Repository
 
-    git clone https://github.com/Apurvbajpai2531/feature-flag-system.git
+    git clone https://github.com/mithilesh-devops/feature-flag-system
     cd feature-flag-system
 
 ------------------------------------------------------------------------
